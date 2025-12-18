@@ -43,6 +43,8 @@ data-engineering-etl-project/
 │ └── analytics_queries.sql
 │
 └── README.md
+│
+└──.gitignore 
 
 ---
 
