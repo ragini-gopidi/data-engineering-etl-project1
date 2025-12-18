@@ -24,6 +24,7 @@ Raw CSV Files
 ---
 
 ## Project Structure
+
 data-engineering-etl-project/
 │
 ├── data/
