@@ -25,7 +25,7 @@ Raw CSV Files
 
 ## Project Structure
 
-data-engineering-etl-project/README.md || data-engineering-etl-project/data/raw/customers.csv,data-engineering-etl-project/data/raw/products.csv,data-engineering-etl-project/data/raw/sales.csv || data-engineering-etl-project/data/processed/fact_sales.csv || data-engineering-etl-project/notebooks/01_extract_transform.ipynb || data-engineering-etl-project/notebooks/02_load_to_postgres.ipynb || data-engineering-etl-project/sql/analytics_queries.sql
+data-engineering-etl-project/README.md || data-engineering-etl-project/data/raw/customers.csv || data-engineering-etl-project/data/raw/products.csv || data-engineering-etl-project/data/raw/sales.csv || data-engineering-etl-project/data/processed/fact_sales.csv || data-engineering-etl-project/notebooks/01_extract_transform.ipynb || data-engineering-etl-project/notebooks/02_load_to_postgres.ipynb || data-engineering-etl-project/sql/analytics_queries.sql
 
 ---
 
